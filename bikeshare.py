@@ -6,7 +6,7 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
 months_dict = ['January', 'February', 'March', 'April', 'May', 'June']
-
+#Comment2
 def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     while True:
