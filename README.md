@@ -14,3 +14,5 @@ bikeshare.py, washington.csv, new_york_city.csv, chicago.csv
 
 ### Credits
 
+### Section 3B
+One change for section 3B
